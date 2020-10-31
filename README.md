@@ -1,6 +1,8 @@
 ### Hi there 👋
-I am Vrinda Bhatia.
+I am Vrinda Bhatia
 <a href="https://vrindabhatia999.github.io/">
+Check my web portfolio.
+  
 <!--
 **vrindabhatia999/vrindabhatia999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
