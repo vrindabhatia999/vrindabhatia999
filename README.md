@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Vrinda Bhatia
+I am Vrinda Bhatia 👧🏻
 <a href="https://vrindabhatia999.github.io/">
 Check my web portfolio.
   
