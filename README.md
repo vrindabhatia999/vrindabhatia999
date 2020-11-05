@@ -1,7 +1,10 @@
 ### Hi there 👋
 I am Vrinda Bhatia 👧🏻
 <a href="https://vrindabhatia999.github.io/">
-Check my web portfolio.
+Check my web portfolio.</a>
+<br>
+  I love to code in Javascript and Python💻
+ 
   
 <!--
 **vrindabhatia999/vrindabhatia999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
