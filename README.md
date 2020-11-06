@@ -4,7 +4,7 @@ I am Vrinda Bhatia 👧🏻
 Check my web portfolio.</a>
 <br>
   I love to code in Javascript and Python💻<br>
-  I have done hands on AWS and Heroku cloud deployemnt.☁
+  I have exprience with AWS and Heroku cloud deployemnt.☁
   
 <!--
 **vrindabhatia999/vrindabhatia999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
